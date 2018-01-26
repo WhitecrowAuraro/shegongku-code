@@ -1,0 +1,1 @@
+\static\css里面有个php,删掉即可。

